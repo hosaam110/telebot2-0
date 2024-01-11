@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "sunlit-realm-311015",
+  "private_key_id": "2cbfedf98184b87139ea80fc051564d6a7b5739c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQChyxRe83t5zof/\nqiooLI7rcx+YaKXFqfYz7/0NoJLoBWr3wGZq9yx8o2+U/e/txUlPz2lvIwcQ7CKR\nhM6apPJK6QH9fXvecCOYwSejbZKGXkcp9Xv8YdlaBCTYGJ86GWD0feXcMhuoFZTK\nn1sGcasn0Vg+yki/Bo3pSKhoHUemw1+Q/mqAPdur3lCsOOxdRXBReT9fHAsqo4SI\nPyQyPLs1cJVw2D8nrqVDXVMQryZn10C7EsX/WpGcAdK7s6iQUQkJ2k4I4PpF/spR\nYGkkG0BU6Ci26HEZgJBLxl//WhW8tNW8DXvHVSuJQidnXmp+reahJia0YvK2lCUq\n91McjgyhAgMBAAECggEAASTuCnPfYi+nP5QlAy65fgnM5eeLkJfQoXJnkEKb918e\ncA0gzE3eNy1yuxOGsGBOUe2uGbaeNKzu26ecTHSxL/1w4amTCDIz1j87eAjs2d1t\n1Gqji1fn0R6pYgveiGsoh+IiD4odLvWkHUC+RI/mPXxaCuukUxGJTGaSplXarV++\negMTf6U5j73LGPdAx+BTI9GkrrXLgOslgZj+ea/WcxTe+5vTkbXAZ3vWv2hYZOQM\nlxXiCyLOZg7u88mlvYi9BcjIg81EnkHntf04q0D8rrW+443UX1TnsCACpEeAfPbR\nqfiW8lMrtDLdWrWt0t4IGf6ZKwSCk98Oqy+/X4HHoQKBgQDVVZlJBk5C/YDt6jiH\n1avm9jWHtXP25FcqUn/1XFmO/FqiTWxJzPvrOuDtM+2btIAByYc6B7cuAZYjR8GN\nXN2WW81hZKnPcEAcdcTgnLniC0pvC/3PaAmDynC6SBhQD8vUlvX1UbRupdwh9QQH\nkzM9ZfcLW3YkMRSrp0iUVxlcaQKBgQDCJqdnOOo8L7AL5omCAeFUQSYq5vn7BrLZ\nYnwJLYiEXM83oxzg5ftLKcRZBdo6wo+XyuXHm3vhDfK4uGDUrhPdioh6imBb+i9e\nqI4wuUdxyT3X4TMGrbjDlRvIWhyeesFxYbT7Un2mULhJnffHapeszor6a5sCx/pX\n9uMuwGaHeQKBgQCgEehACME0Nq5E1dew5DxlwhuMRjRK7i4RDXIBkleImAURfvJf\ntbTYXYdjs/D3QcpCjQowGpXxqTMUKcUq4qFJLny+NR/NDDaupBcjSbWXzEz/YYoB\n09g/0OggffPwLsoMK3FFrxapZz3zJLrvTB3IVfe1x9yvbzxJR+2HkIrw8QKBgQCv\n0DcZ51VeCUUfkbWF8FPva0u34BARfOBqsJ9n5D7StgTD+kaFdl3Yk8sFXqJfQZ6s\ns4Te+/LzOyFIm1a8YaMFpJSweyyFPgq1amfQwYdsB/Oj0X/WlWxSWG2fQdLWxIz2\nMqekSvATstcfexhNEj6lsyfxW440t4kBLUZPKNXv6QKBgQCNCJqa3KesAwMW5/YP\n6upwMe5Xb9EpEH4+TVxr41ZntihnUdNfdBI9D48+Dvk8HtT0VYwhik0vP/gngpDD\n2qbdRoyLok8YaEuYh5HPr0ak9NQJLMUQrrvNXN1s1lG/U8Xq0FfbIcEhsxm0N8R8\nctNKdixKhYbct38EBVjVCah0Dg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "student-informaiton@sunlit-realm-311015.iam.gserviceaccount.com",
+  "client_id": "102158412741912777218",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/student-informaiton%40sunlit-realm-311015.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "client_secret":"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",
+  "redirect_uris":["http://localhost"]
+}

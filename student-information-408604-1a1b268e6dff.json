@@ -1,0 +1,15 @@
+{
+  "type": "service_account",
+  "project_id": "student-information-408604",
+  "private_key_id": "1a1b268e6dff50915c2a681ede642ca855efafe8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxkG1XvCrXiIAN\n5bwNVqCMxnaho75IHYI1yFBgsjse1lmAn4ZXH9hWwmmEwf7eZrWopM7dckaxk1Di\n8wpSmSG8T9WOgZDz1vGUuh/4eAVY6ZAlAGzz/LZqB7VyTlD+ug3yG7NyA9/oiGLE\n2C/NRobjgHbJMlFrwQsexE6nejn+9hZB2YvBzpRx0xNfWRxLe1gUhr+9/y9Zx29h\nSMH2U62Rp8WPMKan6rPBK1OAwajFz3tt0kXwZUjRYWN93xgneOUb+AC0EXfhpLgk\nDm27Xt6SeO4Y9jr5ewztH6c0+15IO40/UCcT7LhH7TqHZIuHMd/vnkIYpqZuNCdO\nqvdei/ulAgMBAAECggEACW8dAB5VQGJWO2bLWQITQaeBwhDLGVXIB0d/TcPqdDb7\nRmQzZQmiGun1ZUJRYkuetzkabJWXv/ONxqEXGVBdhH3RYOLtaqcu6rIA5NiroA+4\nwt6E62mv325Na6dRklccSpLCM/qUuOwWI1NBJuzqWcgHh6UOwmTdTGMtsqRB1JPz\n7pM4zOmRwHU+EwhpgRMKlZFG3eXhY8P628+hQlmviOYVmkwSCk+bkgkv2vdS9/Ju\nz5RSE/1BAN+RG3+wF8noyWn7plGYhbd/a2AVw1USyaNjvq5sUwWOqhodIF+aL3L5\numGJeFA5cCeERRcLzpEPvcNyNp+tuqDmMvSJbofIeQKBgQDXl3W5QpilThMSyduz\nJb52wR1Kv7Ijnz/q0+dtmauECN2tFzde2rsgSbwNio0c7Bvj9YpzUw1MdjTx22Mo\njvb3lFliAwxE4rPqi13DR3rcuAhR5jTsanafZbfuVjcXkWUygr2vZewLODd8I48l\ncPe6YwYJq5c9MxgFMqf2KZrUkwKBgQDS2FRIHt77yILLL/7EpS7c3qu9sVfVDhh0\nikGjB+Qp7retsCr0sdynMkTu5tOA4Dcjc+7jNSPcJQUvYzKXjlyJcaddPFMR0J72\n2d25WMYAekLs60fGu5RnrBvCGRa5xU8i6HHVzCswfS+cO0zgv447ZdXVKuY2oDqC\nlGKNs08J5wKBgHFkonCsjGj1paaOMVYKliET9XopVWLTEeVLS0AkQUgS+bVerqrf\nVOjon1Zn90ytCwZdUVLS7f23dqV3BLKCb3dMua6Jd9yLeKH2Z3ycjgylZwrckB2A\n6Z9w+ssK4bMtsBJfHbGxY/OKv/Q1J8dDoaiRCM3xSHzR8OJbAGjC/UKtAoGADPFY\noyC6AWy6kqx8kCevq8FDe56CTMLTv3upMc/PMr/DqLbSvDia2eydDKlAvH2HBPcd\n5/agH+hp3BHTzjff+FPwuSl10/cheve+w5zucqMOrqp2un1TS9Xl0lFl8rto8zSf\noEcrM4vLu2RsgLNhkMXcjXxXq2zEirV/I0GpjWsCgYBzjSm+P830azh+/KmYg4vQ\nYRDJrX1WVcpcGjzN1bxbm2B7JejanfI/bO1qupSej+h4ohXKGB97o43Zbs7GHWbZ\nBRpPG6BW09YQ6N1sR4mDd9zIKgoCKPefpmtfmIG2X6eIoYhC5fJdPdKjaWJTM5/z\nr21MstNa7GoyrgHUhYOGgg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yodt-istanbul@student-information-408604.iam.gserviceaccount.com",
+  "client_id": "109552141988005707365",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yodt-istanbul%40student-information-408604.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "client_secret":"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",
+  "redirect_uris":["http://localhost"]
+}
